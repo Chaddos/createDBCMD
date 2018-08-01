@@ -13,6 +13,7 @@ cd bin
 mysql -u root -p -h 127.0.0.1
 Password : Enter (No password)
 
+
 /// This command prompt is used to see available databases. ///
 SHOW DATABASES;
 
