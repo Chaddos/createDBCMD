@@ -75,3 +75,4 @@ UPDATE store
 /// Here we are deleting a record of information about a movie. ///
 
 DELETE FROM store WHERE movie_id = 1;
+![update and delete db 5](https://user-images.githubusercontent.com/33934161/43721128-42d1a83c-9992-11e8-8236-5daa26b06ce2.png)
