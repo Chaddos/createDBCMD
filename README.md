@@ -18,14 +18,14 @@ Password : Enter (No password)
 /// This command prompt is used to see available databases. ///
 SHOW DATABASES;
 
-![creating db 2](https://user-images.githubusercontent.com/33934161/43719500-2770c6b2-998e-11e8-88eb-1259d9f724d4.png)
-
 
 /// We want to create a new database called movies. Prompt below.///
 
 CREATE DATABASE movies;
 USE movies; /// Going inside the database. ///
 SHOW TABLES;
+
+![creating db 2](https://user-images.githubusercontent.com/33934161/43719500-2770c6b2-998e-11e8-88eb-1259d9f724d4.png)
 
 /// Creating a table within the database declaring field names and parameters. ///
 
