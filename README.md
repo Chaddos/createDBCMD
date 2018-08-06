@@ -12,7 +12,8 @@ cd mysql
 cd bin
 mysql -u root -p -h 127.0.0.1
 Password : Enter (No password)
-![Create DB](
+![connect to db 1](https://user-images.githubusercontent.com/33934161/43719204-60fa5bb0-998d-11e8-8106-8fe2878e9aae.png)
+
 
 /// This command prompt is used to see available databases. ///
 SHOW DATABASES;
