@@ -39,6 +39,8 @@ CREATE TABLE store (
 -> PRIMARY KEY ( movie_id )
 -> );
 
+![creating table 3](https://user-images.githubusercontent.com/33934161/43719907-5833d1e4-998f-11e8-9683-f2ffb3765cdd.png)
+
 ///Inserting data into the tables.///
 
 INSERT INTO store (
