@@ -64,6 +64,8 @@ INSERT INTO store (
 -> movie_id, movie_title, movie_released, movie_length, movie_lang)
 -> VALUES (5, "All About the Benjamins", 1995, 126, "English");
 
+![insert db 4](https://user-images.githubusercontent.com/33934161/43721055-19ac1f6e-9992-11e8-96db-02c728d9bb76.png)
+
 /// Updating a record in the table. In this case, we updated the year release of a movie. ///
 
 UPDATE store
